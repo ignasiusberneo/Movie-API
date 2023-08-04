@@ -24,6 +24,7 @@ npm start
 
 [FOR UNIT TESTING PURPOSE]
 Change you **NODE_ENV** value to **test** and run **npm test**
+If you want to run API change back **NODE_ENV** value to **development** or leave it empty
 
 ## Features
 List of API:
